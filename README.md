@@ -1,3 +1,14 @@
-![image](https://github.com/user-attachments/assets/a826c9b4-aef3-4868-827e-4cce235d2129)
-![image](https://github.com/user-attachments/assets/bdeef965-b2c6-49ea-a5d5-f65ecfc59f0a)
-![image](https://github.com/user-attachments/assets/17bbfca2-8297-44eb-9a6c-1438dffe4039)
+## Compare each models
+### Direct model
+![image](https://github.com/user-attachments/assets/52f55f59-ac33-444f-9326-2f74a92e21cc)
+
+### Interference model
+![image](https://github.com/user-attachments/assets/4c3d0e26-d445-46c7-9d46-e619dd81b82f)
+
+## Interference model result
+### EQ = [5,9,1,-1,-5,2,6,8,-9]
+![image](https://github.com/user-attachments/assets/b8548f0a-f764-4759-986d-c16c815e62de)
+
+
+### EQ = [-9,-7,-5,-3,-1,1,3,5,7]
+![image](https://github.com/user-attachments/assets/f0ef4430-a80f-429d-b3f7-49798dcf6f6b)
