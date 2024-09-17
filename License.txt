@@ -1,0 +1,8 @@
+This code is based on the article © 2016 by the authors; licensee MDPI, Basel, Switzerland.
+The article is licensed under the Creative Commons Attribution (CC-BY) license.
+Original article: https://doi.org/10.3390/app6050129
+
+This source code is licensed under the Creative Commons Attribution (CC-BY) license.
+You are free to use, modify, and distribute this code as long as you attribute the original author.
+Code implementation by Jinyong Kim
+License details: http://creativecommons.org/licenses/by/4.0/
